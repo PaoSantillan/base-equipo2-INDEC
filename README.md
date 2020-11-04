@@ -1,2 +1,1 @@
-# base-equipo2-INDEC
-Lucas-Eliana
+# node-INDEC
